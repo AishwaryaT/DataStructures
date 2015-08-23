@@ -1,5 +1,8 @@
-package CollectionInterviewQues;
+Given a list of test results (each with a test date, Student ID, and the student’s Score), 
+return the Final Score for each student.
+A student’s Final Score is calculated as the average of his/her 5 highest test scores. 
 
+package CollectionInterviewQues;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
